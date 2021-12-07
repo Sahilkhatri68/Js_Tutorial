@@ -1,0 +1,72 @@
+:root p_color-- black .body {
+    background-color: black;
+    height: 100%;
+}
+
+.head {
+    background-color: black;
+}
+
+.navbar {
+    background-color: black;
+}
+
+.nav1 {
+    width: 30%;
+    color: white;
+    text-align: left;
+    margin-left: 3%;
+    margin-top: 1%;
+}
+
+.nav2 {
+    width: 60%;
+    color: aliceblue;
+    text-align: left;
+}
+
+#menu-order {
+    height: 30%;
+}
+
+.table {
+    display: table;
+    /* Allow the centering to work */
+    margin: 0 auto;
+    text-align: top;
+}
+
+ul#horizontal-list {
+    /* min-width: 696px; */
+    list-style: none;
+    /* padding-top: 20px; */
+    margin: -11%;
+    margin-right: -275%;
+}
+
+ul#horizontal-list li {
+    display: inline;
+}
+
+.link {
+    text-decoration: none;
+    color: red;
+    margin-right: 15%;
+}
+
+.link-2 {
+    text-decoration: none;
+    color: red;
+    margin-right: 15%;
+}
+
+.link-3 {
+    text-decoration: none;
+    color: red;
+    margin-right: 15%;
+}
+
+#h1 {
+    text-align: center;
+    margin-top: 1%;
+}
